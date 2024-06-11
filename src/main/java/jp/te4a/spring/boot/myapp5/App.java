@@ -1,4 +1,4 @@
-package jp.te4a.spring.boot.myapp3;
+package jp.te4a.spring.boot.myapp5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
