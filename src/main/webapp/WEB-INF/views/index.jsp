@@ -11,7 +11,7 @@
         <p>${msg}</p>
         <form method="post" action="/post">
             <input type="text" name="text1">
-            <input type="submit"
+            <input type="submit">
         </form>
     </body>
 </html>
